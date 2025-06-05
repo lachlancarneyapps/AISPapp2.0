@@ -295,12 +295,12 @@ const styles = StyleSheet.create({
   logoContainer: {
     flex: 1,
     marginRight: 16,
-    height: '90%',
+    height: '100%',
     justifyContent: 'center',
   },
   logo: {
-    width: '100%',
-    height: '100%',
+    width: '90%',
+    height: '90%',
   },
   resetButton: {
     padding: 12,
