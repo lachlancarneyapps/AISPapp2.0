@@ -299,8 +299,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   logo: {
-    width: '90%',
-    height: '90%',
+    width: '70%',
+    height: '70%',
   },
   resetButton: {
     padding: 12,
