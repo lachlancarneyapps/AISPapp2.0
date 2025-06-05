@@ -294,7 +294,7 @@ const styles = StyleSheet.create({
   },
   logoContainer: {
     flex: 1,
-    marginRight: 16,
+    marginRight: 20,
     height: '100%',
     justifyContent: 'center',
   },
